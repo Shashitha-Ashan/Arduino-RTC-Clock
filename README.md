@@ -52,4 +52,4 @@ Connect the LED strips to the designated pins on the Arduino and wire the DS3231
 
 1. Clone this repository or download the source code.
    ```sh
-   git clone https://github.com/Shashitha-Ashan/Arduino-RTC-Clock
+   git clone https://github.com/Shashitha-Ashan/Arduino-RTC-Clock.git
